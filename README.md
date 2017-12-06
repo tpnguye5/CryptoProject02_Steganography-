@@ -1,7 +1,7 @@
 # CryptoProject02_Steganography-
 Project, research, and implementation 
 
-#Purpoose 
+Purpose
 This project is to test and to gain a better understanding of steganogrphy. The first program will attempt to 
 use steganography method through encoding an image. 
 
